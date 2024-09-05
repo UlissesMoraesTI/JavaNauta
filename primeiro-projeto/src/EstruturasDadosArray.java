@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 public class EstruturasDadosArray {
 
     public static void main(String[] args) {
@@ -54,5 +56,6 @@ public class EstruturasDadosArray {
         for (double salario : salarioSJava) {
             System.out.println(salario);
         }
+
     }
 }
